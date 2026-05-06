@@ -1,0 +1,61 @@
+# Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+
+.env
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+
+.streamlit/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Model artifacts (optional – remove this if you WANT to upload them)
+
+# *.pkl
+
+# Dataset files (optional – avoid large files)
+
+# *.csv
+
+# IDE/editor settings
+
+.vscode/
+.idea/
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# Git
+
+.git/
